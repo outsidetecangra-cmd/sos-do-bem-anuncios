@@ -12,5 +12,25 @@
       "button": "Coordenação",
       "link": ""
     }
+  ],
+  "highlights": [
+    {
+      "title": "Campanha ativa",
+      "body": "Arrecadação de alimentos e itens de higiene. Combine a entrega com a coordenação."
+    },
+    {
+      "title": "Prioridade da semana",
+      "body": "Mapear famílias que precisam de cestas básicas e apoio emergencial."
+    }
+  ],
+  "pinned": [
+    {
+      "title": "Regra principal",
+      "body": "Pedidos, doações e campanhas devem ser confirmados com os administradores."
+    },
+    {
+      "title": "Privacidade",
+      "body": "Não compartilhe telefone, endereço ou dados de terceiros sem consentimento."
+    }
   ]
 }
